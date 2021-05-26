@@ -19,6 +19,7 @@ public class WordReverse {
         for (int i = 0; i < 2; i++) { 
             System.out.print("This is fine.");
         }
+       
     }
     
 }
